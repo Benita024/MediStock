@@ -4,10 +4,11 @@
 ## To Do
 
 ### Project Foundation
-- [ ] Complete README.md
-- [ ] Define functional requirements
-- [ ] Design system architecture
+- [x] Complete initial README.md
+- [x] Define initial functional requirements
+- [x] Prepare proposed system architecture
 - [ ] Design database schema
+- [ ] Review architecture and component interactions
 
 ### Research
 - [ ] Build literature review matrix

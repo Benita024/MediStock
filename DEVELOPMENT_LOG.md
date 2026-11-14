@@ -21,6 +21,10 @@
 - Connected the local repository to GitHub.
 - Successfully pushed the initial commit to origin/main.
 
+- Drafted the project README.md.
+- Defined initial functional and non-functional requirements.
+- Prepared the proposed system architecture.
+
 ### Decisions Made
 - Adopted Agile development with a lightweight Kanban workflow.
 - Selected Git and GitHub for version control.
@@ -33,6 +37,10 @@
 - Document initial system architecture.
 - Establish a project task board.
 - Begin literature review and technical design.
+
+- Design the database schema.
+- Define collection structures and data relationships.
+- Review and refine the proposed architecture.
 
 ### Issues and Blockers
 - No major issues encountered.
